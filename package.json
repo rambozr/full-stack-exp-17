@@ -1,0 +1,19 @@
+{
+  "name": "middleware-project",
+  "version": "1.0.0",
+  "description": "Express middleware project for logging and auth",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "auth"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
